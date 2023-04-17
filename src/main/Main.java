@@ -14,6 +14,9 @@ public class Main {
 
   public static void main(String[] args) {
 
+    // some changes from devel
+
+
     Player player = new Player("Anton");
 //    player.setName(Human.andrei().getName());
     player.setPlayerSex(Human.andrei().getSex());
